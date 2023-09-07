@@ -1,4 +1,4 @@
-# Unhinted Iosevka Term SS04 WebFont 26.3.1
+# Unhinted Iosevka Term SS04 WebFont 26.3.2
 
 ## How to use
 
